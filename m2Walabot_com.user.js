@@ -6,6 +6,8 @@
 // @author       Ohad Petrushka
 // @match        https://store.walabot.com/*
 // @match        http://store.walabot.com/*
+// @match        http://walabot.com/*
+// @match        https://walabot.com/*
 // @match        https://uatstore.walabot.com/*
 // @match        http://uatstore.walabot.com/*
 // @grant        none
